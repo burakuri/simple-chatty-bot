@@ -55,7 +55,6 @@ function test() {
 	if (answer == 2) {
 		correct = end();
 	}
-	
 }
 
 function end() {
